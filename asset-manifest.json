@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.78188135.css",
+    "main.js": "/restaurant/static/js/main.c4e1caa4.js",
+    "static/js/787.5653e3f8.chunk.js": "/restaurant/static/js/787.5653e3f8.chunk.js",
+    "static/media/platter.jpg": "/restaurant/static/media/platter.2cb09326b4ec0d009a0d.jpg",
+    "static/media/Logo.jpg": "/restaurant/static/media/Logo.6517f12a169a5954e0c8.jpg",
+    "static/media/another.jpg": "/restaurant/static/media/another.2f7447494cc9e95effa7.jpg",
+    "static/media/english.jpg": "/restaurant/static/media/english.96dce13942316491309b.jpg",
+    "static/media/perfect.jpeg": "/restaurant/static/media/perfect.e340cd6e758a35df27f2.jpeg",
+    "static/media/steak.jpg": "/restaurant/static/media/steak.51de4ba85216bf4a6c1a.jpg",
+    "static/media/jollof.jpg": "/restaurant/static/media/jollof.ea40586a2c88648e59ad.jpg",
+    "static/media/banku.jpg": "/restaurant/static/media/banku.f5a1f302e52a0c28b35b.jpg",
+    "static/media/noodles.jpg": "/restaurant/static/media/noodles.8caf73766cdd7e0a2512.jpg",
+    "static/media/rice.jpg": "/restaurant/static/media/rice.a3dd8299b30843f97cea.jpg",
+    "static/media/yam.jpg": "/restaurant/static/media/yam.4f5d425aa1744b655004.jpg",
+    "static/media/food.jpeg": "/restaurant/static/media/food.4de00e0ceff3e7c76940.jpeg",
+    "index.html": "/restaurant/index.html",
+    "main.78188135.css.map": "/restaurant/static/css/main.78188135.css.map",
+    "main.c4e1caa4.js.map": "/restaurant/static/js/main.c4e1caa4.js.map",
+    "787.5653e3f8.chunk.js.map": "/restaurant/static/js/787.5653e3f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78188135.css",
+    "static/js/main.c4e1caa4.js"
+  ]
+}
